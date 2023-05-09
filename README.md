@@ -1,2 +1,4 @@
-# KNN-DecisionTree
-we investigated the performance of the K Nearest neighbours and the Decision Tree machine learning models. We compared them based on their classification accuracy on the UCI Hepatitis and Diabetic Retinopathy datasets.
+# Report
+
+[COMP551_Assignment_1.pdf](https://github.com/Enzo2806/KNN-DecisionTree/files/11432144/COMP551_Assignment_1.pdf)
+
